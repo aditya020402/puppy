@@ -23,3 +23,7 @@ func BigBarks() string {
 func Eating() string {
 	return "Puppy is eating food."
 }
+
+func Eating1() string {
+	return "Puppy is eating lots of food."
+}
